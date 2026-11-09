@@ -1,0 +1,9 @@
+{
+  "name": "cam",
+  "version": "0.1.0",
+  "description": "Plan complex codebase changes in a living Markdown plan document, resolving Open Questions interview-style",
+  "author": {
+    "name": "Cameron Steffen",
+    "email": "cam.steffen94@gmail.com"
+  }
+}
